@@ -25,5 +25,5 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-protected_links = "dnagamez.com,blogspot.com,youtube.com,blogger.com,feedburner.com,google.com,googleplus.com,blogger.googleusercontent.com,safelink.dnagamez.com,forum.dnagamez.com,facebook.com,instagram.com,whatsapp.com,api.whatsapp.com,tiktok.com"; 
+protected_links = "dnagamez.com,blogspot.com,youtube.com,blogger.com,feedburner.com,google.com,googleplus.com,blogger.googleusercontent.com,safelink.dnagamez.com,forum.dnagamez.com,facebook.com,instagram.com,whatsapp.com,api.whatsapp.com,web.whatsapp.com,tiktok.com"; 
 auto_safelink();
